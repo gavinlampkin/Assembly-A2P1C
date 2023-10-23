@@ -1,11 +1,11 @@
 # Gavin Lampkini, CS 2318-002, Assignment 2 Part 1 Program c.
 #############################################################
-Allocates global memory for a length of five array and displays
-all values with their corresponding label.
-Then a swap is conducted to swap elements one with three and
-two and five.
-The array contents are then redisplayed to the user but in
-reverse order, as well with the labels.
+# Allocates global memory for a length of five array and displays
+# all values with their corresponding label.
+# Then a swap is conducted to swap elements one with three and
+# two and five.
+# The array contents are then redisplayed to the user but in
+# reverse order, as well with the labels.
 #############################################################
 
 			.data
